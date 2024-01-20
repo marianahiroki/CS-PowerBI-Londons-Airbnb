@@ -30,4 +30,4 @@ Airbnb London Listings Dashboard (Power BI) developed for Cambridge Spark as par
 - Understanding the context of the dataset that will be analysed is crucial to draw conclusions and make decisions or suggest changes with your client. In this example it is possible to be more specific and filter the analysis for a specific borough and room type.
 
 ## Next steps: ##
-- The dataset covers the Airbnb listings before the COVID-19 pandemic, it would be interesting to see how it changed until this year, 2024. The impact of Brexit, imigration enforcement, the cost of living crisis, the opening of the Elisabeth Line are important to consider in the further analysis.
+- The dataset covers the Airbnb listings before the COVID-19 pandemic, it would be interesting to see how it changed until this year, 2024. The impact of Brexit, imigration enforcement, the cost of living crisis, the opening of the Elisabeth Line is important to consider in further analysis.
